@@ -16,3 +16,8 @@ Interesting takeaways from books too rare to keep in mind but to good to be forg
           }
         );
       }
+
+- convert to number with unary +
+
+      const b = "6";
+      const a = +b;
